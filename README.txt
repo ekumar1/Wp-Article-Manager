@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: E Kumar Shrestha
 Donate link: http://ekumar.com.np
-Tags: comments, spam
+Tags: Wordpress, Article Manager, Article Widget, Article Sidebar Widget
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
