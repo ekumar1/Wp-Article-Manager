@@ -24,10 +24,10 @@ class wpb_widget extends WP_Widget {
 								 'wpb_widget', 
 
 								// Widget name will appear in UI
-								__('WordPress Article Manager', 'wpb_widget_domain'), 
+								__('Article Manager', 'wpb_widget_domain'), 
 
 								// Widget description
-								array( 'description' => __( 'WordPress Article Manager', 'wpb_widget_domain' ), ) 
+								array( 'description' => __( 'Article Manager', 'wpb_widget_domain' ), ) 
 			                    );
 			} 			
 	

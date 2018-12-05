@@ -20,10 +20,10 @@ This Plugin used for article news manager page sidebar widget.
 
 1. Upload `ek_wp_article_manager.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go Apperance -> widget and Drag & Drop WordPress Article Manager Widget in your sidebar area.
+1. Go Apperance -> widget and Drag & Drop Article Manager Widget in your sidebar area.
 
 == Frequently Asked Questions ==
-  
+   
 
 == Screenshots ==
  
